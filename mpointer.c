@@ -50,3 +50,5 @@ void func4(int**** p)
 {
 	****p = ****p+100;
 }
+
+// This is a opensw test file.
